@@ -1,0 +1,6 @@
+/build
+/__pycache__
+script.py
+script-pyscopg2.py
+lite.db
+
